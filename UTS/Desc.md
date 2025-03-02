@@ -10,3 +10,12 @@ yang ditawarkan perlu dibuat dalam bentuk laporan pemrograman pada file notebook
 dipresentasikan. 
 
 ![image](https://github.com/user-attachments/assets/477e9b61-490c-4a61-a830-7abfcd46efde)
+
+
+# How our project examined : 
+
+![image](https://github.com/user-attachments/assets/10eaa5d2-329e-4771-af56-0259412b4d33)
+![image](https://github.com/user-attachments/assets/fdd41fa7-88ed-4bf8-8e41-301162b1d63e)
+
+
+
