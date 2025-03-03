@@ -16,4 +16,4 @@ d. Tentukan accuracy, precision, recall, dan f1-score.
 
 Ulangi Tugas 1, namun dengan model k-nearest neighbor dan k = 1.
 
-Model manakah yang lebih akurat (better accuracy)
+Model manakah yang lebih akurat (better accuracy) -> Model no 2 (0.97)
