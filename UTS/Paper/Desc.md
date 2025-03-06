@@ -11,5 +11,5 @@ Consist of 5 File :
 For Paper no.2 :
 
 1. Respirology - 2011 - LAM - Obesity (See as pdf) -> https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1440-1843.2011.02081.x
-2. 
+2. Stress in obstructive sleep apnea (also pdf) -> https://www.nature.com/articles/s41598-021-91996-5
 
